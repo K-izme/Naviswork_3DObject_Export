@@ -1,0 +1,6 @@
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\bin\Debug\Geommeetryy.dll
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\bin\Debug\Geommeetryy.pdb
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\obj\Debug\Geommeetryy.csproj.AssemblyReference.cache
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\obj\Debug\Geommeetryy.csproj.CoreCompileInputs.cache
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\obj\Debug\Geommeetryy.dll
+C:\Users\gohan\OneDrive\Documents\GitHub\testCsharp\Geommeetryy\obj\Debug\Geommeetryy.pdb
